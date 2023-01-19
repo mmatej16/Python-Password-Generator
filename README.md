@@ -7,7 +7,7 @@ Here's an example of what happens when you start it:
 
 mmarion@UbuntuSSD:~$ python3 '/home/mmarion/Desktop/Password Generator.py'  
 Password Generator <br />
-mmatej16 on github
+@mmatej16 on Github
 
 Enter the length of the password(s): 16
 
