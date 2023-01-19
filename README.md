@@ -15,12 +15,12 @@ Enter how many passwords you want to generate?: 6
 
 Your generated password(s) are:
 
-LB&w(_i%jhSo7a{X
-cpt1)Ua/k2Y_85?Q
-E}=k4eJb[jIY{/q@
-F\P$(S1n[Zv+f%J]
-PB%iml6FMg@)nu0V
-j^nGTz{>|(Wuf+,<
+LB&w(_i%jhSo7a{X <br />
+cpt1)Ua/k2Y_85?Q <br />
+E}=k4eJb[jIY{/q@ <br />
+F\P$(S1n[Zv+f%J] <br />
+PB%iml6FMg@)nu0V <br />
+j^nGTz{>|(Wuf+,< <br />
 
 mmarion@UbuntuSSD:~$ 
 
