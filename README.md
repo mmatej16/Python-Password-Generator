@@ -3,7 +3,7 @@ Here's a Python Password Generator i made!
 
 Made entirely in python.
 
-An example of what happens when you start it:
+Here's an example of what happens when you start it:
 
 mmarion@UbuntuSSD:~$ python3 '/home/mmarion/Desktop/Password Generator.py'  
 Password Generator <br />
@@ -15,7 +15,7 @@ Enter how many passwords you want to generate?: 6
 
 Your generated password(s) are:
 
-LB&w(_i%jhSo7a{X <br />
+LB&w(_i%jhSo7a{X <br /> # the <br /> is just next line! cause it would put all of the 6 generated passwords into one line.
 cpt1)Ua/k2Y_85?Q <br />
 E}=k4eJb[jIY{/q@ <br />
 F\P$(S1n[Zv+f%J] <br />
